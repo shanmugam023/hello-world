@@ -8,16 +8,16 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter 866</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <label for="mobile"><b>Enter Mobile</b></label>
+    <input type="text" placeholder="Don't Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <label for="email"><b>Don't Enter Email</b></label>
+    <input type="text" placeholder="Don't Enter Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b> My Password</b></label>
-    <input type="MYpassword" placeholder="Enter Password" name="psw" id="psw" required>
+    <input type="MY_NEW_password" placeholder="Don't Enter Password" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
